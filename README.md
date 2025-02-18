@@ -5,10 +5,10 @@ Here, i have made use of 2 models:
 1. " mistralai/Mixtral-8x7B-Instruct-v0.1 "
 2. "jinaai/jina-reranker-v2-base-multilingual" 
 
-#mistralai/Mixtral-8x7B-Instruct-v0.1
+# mistralai/Mixtral-8x7B-Instruct-v0.1
 This model is used to generate natural language outputs for some data being given to it based on a users query.
 
-#jinaai/jina-reranker-v2-base-multilingual
+# jinaai/jina-reranker-v2-base-multilingual
 This model is used to generate some SQL query based on the users natural language query.
 
 
